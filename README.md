@@ -50,4 +50,4 @@ curl.exe http://localhost:8080/api/orders/active
 
 ## Ссылка на репозиторий
 
-`https://github.com/cedetog/courier-delivery-api`
+`https://github.com/LouayK459/lab1-courier-delivery-api`
